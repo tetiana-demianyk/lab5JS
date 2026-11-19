@@ -1,0 +1,37 @@
+{
+    "categoryName": "Телефони",
+    "products": [
+        {
+            "id": 1,
+            "name": "Смартфон A",
+            "shortname": "phones1",
+            "description": "Смартфон із сенсорним екраном.",
+            "price": 8500,
+            "image": "https://placehold.co/150x150?text=Item+1"
+        },
+        {
+            "id": 2,
+            "name": "Смартфон B",
+            "shortname": "phones2",
+            "description": "Телефон для щоденного використання.",
+            "price": 6200,
+            "image": "https://placehold.co/150x150?text=Item+2"
+        },
+        {
+            "id": 3,
+            "name": "Телефон C",
+            "shortname": "phones3",
+            "description": "Компактний мобільний телефон.",
+            "price": 4300,
+            "image": "https://placehold.co/150x150?text=Item+3"
+        },
+        {
+            "id": 4,
+            "name": "Смартфон D",
+            "shortname": "phones4",
+            "description": "Смартфон із хорошою камерою.",
+            "price": 9900,
+            "image": "https://placehold.co/150x150?text=Item+4"
+        }
+    ]
+}

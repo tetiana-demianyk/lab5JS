@@ -1,0 +1,37 @@
+{
+    "categoryName": "Аксесуари",
+    "products": [
+        {
+            "id": 1,
+            "name": "Навушники",
+            "shortname": "accessories1",
+            "description": "Навушники для музики та дзвінків.",
+            "price": 1200,
+            "image": "https://placehold.co/150x150?text=Item+1"
+        },
+        {
+            "id": 2,
+            "name": "Миша",
+            "shortname": "accessories2",
+            "description": "Комп'ютерна миша для роботи.",
+            "price": 450,
+            "image": "https://placehold.co/150x150?text=Item+2"
+        },
+        {
+            "id": 3,
+            "name": "Клавіатура",
+            "shortname": "accessories3",
+            "description": "Зручна клавіатура для комп'ютера.",
+            "price": 900,
+            "image": "https://placehold.co/150x150?text=Item+3"
+        },
+        {
+            "id": 4,
+            "name": "Павербанк",
+            "shortname": "accessories4",
+            "description": "Зовнішній акумулятор для телефона.",
+            "price": 1100,
+            "image": "https://placehold.co/150x150?text=Item+4"
+        }
+    ]
+}
